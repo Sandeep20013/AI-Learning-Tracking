@@ -20,5 +20,5 @@ Feel free to explore my journey and progress!
 
 Resources:
 
-https://www.coursera.org/specializations/machine-learning-introduction
+* https://www.coursera.org/specializations/machine-learning-introduction
 
