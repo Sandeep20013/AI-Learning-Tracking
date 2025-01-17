@@ -1,0 +1,13 @@
+# Conda environment folder
+env/
+envs/
+my_env/  # Replace with your specific environment directory name
+
+# Other common ignores
+*.conda
+*.pyc
+*.pyo
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
