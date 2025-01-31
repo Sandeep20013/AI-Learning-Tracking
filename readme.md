@@ -18,3 +18,7 @@ This repository documents my continuous learning journey in Data Science, Artifi
 
 Feel free to explore my journey and progress!
 
+Resources:
+
+* https://www.coursera.org/specializations/machine-learning-introduction
+
