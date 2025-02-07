@@ -23,5 +23,5 @@ Resources:
 * https://www.coursera.org/specializations/machine-learning-introduction
 * https://www.statlearning.com/
 * https://www.youtube.com/@AssemblyAI
-  
-
+* https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/
+* Calculus by James Stewart
