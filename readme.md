@@ -21,4 +21,8 @@ Feel free to explore my journey and progress!
 Resources:
 
 * https://www.coursera.org/specializations/machine-learning-introduction
-
+* https://www.statlearning.com/
+* https://www.youtube.com/@AssemblyAI
+* https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/
+* Calculus by James Stewart
+* Python for Data Analysis: https://www.google.co.uk/books/edition/_/BCc3DwAAQBAJ?hl=en&gbpv=0#pli=1
