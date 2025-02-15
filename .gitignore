@@ -1,7 +1,7 @@
 # Conda environment folder
 env/
 envs/
-my_env/  # Replace with your specific environment directory name
+my_env/
 
 # Other common ignores
 *.conda
