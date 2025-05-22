@@ -1,4 +1,3 @@
-import torch
 from torch import nn
 class SentimentLSTM(nn.Module):
     def __init__(self, vocab_size, embed_dim, hidden_dim, output_dim, dropout=0.3):
